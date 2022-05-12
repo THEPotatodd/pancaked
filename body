@@ -1,0 +1,7 @@
+<html>
+<body>
+<?php
+echo "<h3>Welcome to my website</h3>";
+?>
+</body>
+</html>
