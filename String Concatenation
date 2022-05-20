@@ -1,0 +1,13 @@
+<html>
+<body>
+$str = "My"."SQL";     //$str = "MySQL"
+echo "สมชาย"." "."พายเรือ";  //สมชายพายเรือ
+
+$fname = "John";
+$lname = "Smith";
+echo "My name is ".$fname." ".$lname;  //My name is John Smith
+
+
+echo 1.2.3;  //123
+</body>
+</html>
